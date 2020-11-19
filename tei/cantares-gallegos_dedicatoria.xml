@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My TEI Document</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <p>_Á Fernán Caballero._</p>
+
+
+<p>_Señora: Por ser mujer y autora de unas novelas hacia las cuales
+siento la más profunda simpatía, dedico á usted este libro. Sirva él
+para demostrar á la autora de =La Gaviota= y de =Clemencia= el grande
+aprecio que la profeso, entre otras cosas, por haberse apartado algún
+tanto, en las cortas páginas en que se ocupó de Galicia, de las
+vulgares preocupaciones con que se pretende manchar mi país._</p>
+
+<p>_Santiago, 17 de mayo de 1863._</p>
+
+  <p>ROSALÍA CASTRO DE MURGUÍA.</p>
+  </div>
+      </body>
+  </text>
+</TEI>

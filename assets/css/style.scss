@@ -10,9 +10,9 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
-$regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+$main-font: palatino, sans serif;
+$heading-font: palatino, sans serif;
+$regular-font-size: 1.27em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
 /*
@@ -22,9 +22,65 @@ $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in al
 */
 
 $text-color: #454545;
-$heading-color: #404040;
-$link-color: #841212;
+$heading-color: #fd5145;
+$link-color:  #157D88;
+
+
+
 
 @import "ed";
 @import "syntax";
 @import "CETEIcean.css";
+
+div.i {
+  text-align: justify;
+  text-indent: 5%;
+}
+
+div.c {
+  text-align: left;
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+
+div.j {
+  text-align: justify;
+}
+
+p.poem {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1.c,h2.c,h3.c,h4.c,h5.c,h6.c {
+  text-align: center;
+width: 60%;
+}
+
+h1.a,h2.a,h3.a,h4.a,h5.a,h6.a {
+  text-align: center;
+ }
+
+ol.latin {
+  list-style-type: upper-roman;
+}
+
+/*
+.navigation {
+  display: flex;
+  justify-content: space-between; 
+}
+.next, .prev {
+  flex: 1;
+}  Ver como hacer para que queden uno en cada punta*/
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid gray;
+  margin-top: 2em;
+}
+
+

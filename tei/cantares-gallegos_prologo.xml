@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My TEI Document</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <head>PRÓLOGO</head>
+<lb/>
+<p>
+Grande atrevemento é sin duda prá un probe inxenio com’ ó que me
+cadrou en sorte dar á luz un libro cuyas páxinas debían estar cheyas
+de sol, d’ armonía e d’ aquela naturalidade que unida á unha fonda
+ternura, á un arrulo incesante de palabriñas mimosas e sentidas,
+forman á mayor belleza d’ os nosos cantos populares. A poesía
+gallega, toda música e vaguedade, toda queixas, sospiros e doçes
+sonrisiñas, mormuxando unhas veces c’ os ventos misteriosos d’ os
+bosques, briland’ outras c’ ó rayo de sol que cai sereniño por enriba
+d’ as auguas d’ un río farto e grave, que corre baixo as ramas d’ os
+salgueiros en frol, compríalle para ser cantada un sprito subrime e
+cristaiño, si así ó podemos decir, unha inspiración fecunda, com’
+á vexetación que hermosea esta nosa privilexiada terra, e sobre
+todo un sentimento delicado e penetrante prá dar á conocer tantas
+bellezas de pirmeiro orden, tanto fuxitivo rayo d’ hermosura como se
+desprende de cada costume, de cada pensamento escapado á este pobo
+á quen moitos chaman estúpido, e á quen quisáis xusguen insensibre,
+extraño a devina poesía. Mais naide ten menos qu’ eu teño as grandes
+cualidades que son precisas prá levar á cabo obra tan dificile,
+anque naide tampouco se pudo achar animado d’ un máis bon deseo prá
+cantar as bellezas da nosa terra n’ aquel dialecto soave e mimoso que
+queren facer bárbaro os que non saben que aventaxa ás demáis linguas
+en doçura e armonía. Por esto, inda achándome débil en forzas, e n’
+habendo deprendido en máis escola qu’ á d’ os nosos probes aldeáns,
+guiada sólo por aqueles cantares, aquelas palabras cariñosas e
+aqueles xiros nunca olvidados que tan doçemente resoaron nos meus
+oídos desd’ á cuna, e que foran recollidos pó-lo meu coraçón como
+harencia propia, atrevinme á escribir estos cantares, esforzándome
+en dar á conocer cómo algunhas d’ as nosas poéticas costumes inda
+conservan certa frescura patriarcal e primitiva, e cóm’ ó noso
+dialecto doçe e sonoro é tan apropósito com’ ó pirmeiro para toda
+clase de versificación.
+<lb/>
+As miñas forzas é certo quedaron moito máis abaixo d’ ó que
+alcançaran os meus deseyos, e por eso, comprendendo cánto poidera
+facer nesto un gran poeta, dóyome inda máis da miña insuficença. O
+_Libro d’ os Cantares_ de D. Antonio Trueba, que m’ inspirara e der’
+alento prá levar á cabo este traballo, pasa pó-lo meu pensamento
+com’ un remorso, e casi asoman as vagoas ôs meus ollos ó pensar cómo
+Galicia se levantaría hastr’ ó lugar que lle corresponde si un poeta
+como Anton ó d’ os _Cantares_ fose ó destinado prá dar á conocer as
+suas bellezas e as suas costumes. Mais á miña infeliz patria, tan
+desventurada nesto como en tod’ ó máis, tense que contentar c’ unhas
+páxinas frías e insulsas, qu’ apenas serían dinas d’ achegarse de
+lonxe âs portas dó Parnaso, como non fosse pó-lo nobre sentimento que
+as creou. ¡Qu’ esto mesmo me sirva de disculpa prá os que xustamente
+quirtiquen as miñas faltas, pois penso que ó que s’ esforça por
+desvanecer os errores que manchan e ofenden inxustamente á sua patria
+é acreedore á algunha indulxencia!
+<lb/>
+Cantos, vagoas, queixas, sospiros, serans, romerías, paisaxes,
+debesas, pinares, soidades, ribeiras, costumes, tod’ aquelo, en fin,
+que pó-la sua forma e colorido é dino de ser cantado, todo ó que
+tuvo un eco, unha voz, un runxido por leve que fosse, con tal que
+chegase á conmoverme, tod’ esto m’ atrevín á cantar neste homilde
+libro prá desir unha vez siquera, y anque sea torpemente, ôs que
+sin razón nin conocement’ algún nos despreçan, qu’ a nosa terra é
+dina d’ alabanzas, e qu’ a nosa lingua non é aquela que bastardean
+e champurran torpemente nás máis ilustradísimas provincias, c’ unha
+risa de mofa, qu’ á desir verdade (por máis qu’ esta sea dura),
+demostra á iñorancia máis crasa y á máis imperdoable inxusticia que
+pode facer unha provincia á outra provincia hirmán, por probe qu’
+ésta sea. Mais he aquí qu’ ó máis triste nesta cuestión é á falsedade
+con que fora d’ aquí pintan, así ôs fillos de Galicia com’ á Galicia
+mesma, á quen xeneralmente xuzgan ó máis despreciable e feyo d’
+España, cando acaso sea ó máis hermoso e dino d’ alabanza.
+<lb/>
+Non quero ferir con esto á susceptibilidade de naide, anque á decir
+verdade, ben poidera perdonárselle este pequeno desafogo á quen tan
+ferida foy de todos. Mais, eu qu’ atravesei repetidas veces aquelas
+soledades de Castilla, que dan idea d’ ó deserto; eu que recorrín
+á feraz Extremadura e á extensa Mancha, dond’ ó sol cai á promo
+alomeando monótonos campos, donde ó cor d’ á palla seca prest’ un
+tono cansado ó paisaxe que rinde e entristece ó esprito, sin unha
+herbiña que distraya á mirada que vai perderse nun ceo sin nubes,
+tan igual e tan cansado com’ á terra que crobe; eu que visitei os
+celebrados arredores d’ Alicante, dond’ os olivos, có seu verd’
+escuro, sembrados en fila e de raro en raro parecen chorar de verse
+tan solitarios, e vin aquela famosa horta de Murcia, tan nomeada, e
+tan alabada, e que, cansada e monótona com’ ó resto d’ aquel paíse,
+amostra á sua vexetación tal como paisaxes pintados nun cartón con
+árbores postos simétricamente e en carreiriños para divertisión d’
+os nenos, eu non podo menos d’ indignarme cand’ os fillos d’ esas
+provincias que Dios favoreceu en fartura, pero non ná belleza d’ os
+campos, búlranse d’ esta Galicia competidora en clima e galanura
+c’ os países máis encantadores da terra; esta Galicia donde todo é
+espontáneo na natureza e en donde á man do home cede ó seu posto á
+man de Dios.
+<lb/>
+Lagos, cascadas, torrentes, veigas froridas, valles, montañas,
+ceos azues e serenos com’ os d’ Italia, horizontes nubrados e
+malencónicos, anque sempre hermosos com’ os tan alabados da Suiza;
+ribeiras apacibres e sereniñas, cabos tempestuosos qu’ aterran e
+adimiran pó-la sua xigantesca e xorda cólera..., mares inmensos...,
+¿qué direi máis? Non hay pruma que poida enumerar tanto encanto
+reunido. A terra cuberta en tóda-las estacións de herbiñas e de
+frores; os montes cheyos de pinos, de robres e salgueiros; os
+lixeiros ventos que pasan; as fontes y os torrentes derramándose
+fervedores e cristaiños, vran e inverno, xa pó-los risoños campos,
+xa en profundas e sombrisas ondanadas... Galicia é sempre un xardín
+donde se respiran aromas puros, frescura e poesía... E á pesar d’
+esto chega á tanto á fatuidade d’ os iñorantes, á tanto á indina
+preocupación que contra á nosa terra existe, qu’ inda os mesmos que
+poideron contemprar tanta hermosura (xa non falamos d’ os que se
+bulran de nos sin que xamáis nos hayan visto nin ainda de lonxe,
+que son os máis), inda os que penetraron en Galicia e gozaron d’
+as delicias qu’ ofrece, atrevéronse á decir que Galicia era...
+¡¡un cortello inmundo!!... ¡Y éstos eran quisáis fillos... de
+aquelas terras abrasadas d’ onde hastra os paxariños foxen!... ¿Qué
+diremos á esto? Nada máis si-non que taes fatuidades respecto de
+noso país, teñen algunha comparanza c’ as d’ os franceses ô falar
+d’ as suas eternas vitorias ganadas ôs españoles. España, nunca,
+nunca os venceu; pó-lo contrario, sempre saleu vencida, derrotada,
+homillada, e ó máis triste d’ esto é que _val_ antr’ eles tan infame
+mentira, así como _val_ prá á seca Castilla, prá á deserta Mancha
+e prá tóda-las demáis provincias d’ España--ningunha comparada en
+verdadeira belleza de paisaxe có á nosa--, que Galicia é ó rincón
+máis despreciable da terra. Ben din que todo neste mundo está
+compensado, e ven así á sofrir España d’ unha nación veciña que
+sempre á ofendeu á misma inxusticia qu’ ela, inda máis culpabre,
+comete c’ unha provincia homillada de quen nunca s’ acorda, como no
+sea prá homillala inda máis. Moito sinto as inxusticias con que nos
+favorecen os franceses, pró neste momento casi lles estou agradecida,
+pois que me proporcionan un medio de facerlle máis palpabre á España
+á inxusticia qu’ ela á sua vez conosco comete.
+<lb/>
+Foy este ó móvil principal que m’ impeleu á pubricar este libro,
+que máis que nadie conoço que necesita á indulxencia de todos. Sin
+gramática nin regras de ningunha clás, ó lector topará moitas veces
+faltas d’ ortografía, xiros que disoarán ôs oídos d’ un purista;
+pró ô menos, e prá disculpar en algo estos defectos, puxen ó mayor
+coidado en reprodusir ó verdadeiro esprito d’ ó noso pobo, e penso
+qu’ ó conseguín en algo..., si ben de unha maneira débil e froxa.
+¡Queira ó ceo qu’ outro máis afertunado qu’ eu poida describir c’
+os seus cores verdadeiros os cuadros encantadores que por aquí s’
+atopan, inda no rincón máis escondido e olvidado, prá qu’ así, ô
+menos en fama, xa que non en proveito, gane e se vexa c’ o respeto e
+adimiración merecidas esta infortunada Galicia!
+</p>
+         </div>
+      </body>
+  </text>
+</TEI>
