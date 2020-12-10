@@ -32,20 +32,25 @@ $link-color:  #157D88;
 @import "syntax";
 @import "CETEIcean.css";
 
-div.i {
+div.indentado {
   text-align: justify;
   text-indent: 5%;
 }
 
-div.c {
+div.centrar {
   text-align: left;
   margin: auto;
   display: block;
   width: 50%;
 }
 
-div.j {
+div.justificar {
   text-align: justify;
+}
+
+div.glosario {
+  text-align: justify;
+  font-size: 27px;
 }
 
 p.poem {
@@ -55,7 +60,7 @@ p.poem {
 
 h1.c,h2.c,h3.c,h4.c,h5.c,h6.c {
   text-align: center;
-width: 60%;
+  width: 60%;
 }
 
 h1.a,h2.a,h3.a,h4.a,h5.a,h6.a {
@@ -83,4 +88,9 @@ ol.latin {
   margin-top: 2em;
 }
 
+#fixedbutton {
+  position: fixed;
+  bottom: 0px;
+  right: 0px; 
+}
 
